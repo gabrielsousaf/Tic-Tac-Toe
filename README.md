@@ -8,7 +8,7 @@
 
 
 <h2 align="center">
-  <a href="https://gabrielsf2022.github.io/JOGO-DA-VELHA/" target="_blank"> Veja o site </a>
+  <a href="https://gabrielsousaf.github.io/Tic-Tac-Toe/" target="_blank"> Veja o site </a>
 </h2>
   
 
