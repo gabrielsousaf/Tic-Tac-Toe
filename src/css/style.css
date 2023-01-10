@@ -6,6 +6,12 @@ body{
 
 }
 
+button{
+    cursor: pointer;
+    transition: 300ms all ease;
+}
+
+
 
 
 .title{
@@ -88,9 +94,9 @@ body{
 
 }
 
-#btnRestart:hover {
-    background-color: #5FD068;
-    cursor: pointer;
+#btnRestart, #btnRestartWins:hover {
+    transform: scale(1.1);
+    transition: all 0.5s;
 }
 
 #btnRestartWins{
