@@ -1,5 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Finger+Paint&display=swap');
+
 body{
-    background-color: #14BDAC;
+    background-color: #37505C;
     box-sizing: border-box;
     margin: 0;
     padding: 0;
@@ -12,11 +14,12 @@ button{
 }
 
 
-
-
 .title{
-    font-family: 'Headland One', serif;
+    font-family: 'Finger Paint', cursive;
+    text-transform: uppercase;
+    font-size: 40px;
     text-align: center;
+    color: #F2C14E;
     grid-area: a1;
     justify-content: center;
     
@@ -37,8 +40,8 @@ button{
 .square{
     width: 100px;
     height: 100px;
-    background-color: #5FD068;
-    border: 1px solid #0CA291;
+    background-color: #F2C14E;
+    border: 1px solid black;
     display: inline-block;
     border-radius: 10px;
     cursor: pointer;
@@ -85,16 +88,18 @@ button{
     margin: 20px;
     color: white;
     font-size: 16px;
-    background-color: #ffb366;
-    border: none;
+    background-color: #F2C14E;
+    color: #333;
+    border-color: #F2C14E;
     border-radius: 10px;
     transition: 0.5s;
     grid-area: a5;
+    font-weight: 600;
     
 
 }
 
-#btnRestart, #btnRestartWins:hover {
+#btnRestart:hover, #btnRestartWins:hover {
     transform: scale(1.1);
     transition: all 0.5s;
 }
@@ -103,18 +108,24 @@ button{
     width: 150px;
     height: 50px;
     margin: 20px;
-    color: white;
+    color: #333;
     font-size: 16px;
-    background-color: #ffb366;
-    border: none;
+    background-color: #F2C14E;
+    border-color: #F2C14E;
     border-radius: 10px;
     transition: 0.5s;
-
+    font-weight: 600;
     grid-area: a6;
     text-align: center;
     justify-content: center;
     align-content: center;
     align-items: center;
+}
+
+.players h1{
+    color: #F2C14E;
+    font-family: 'Finger Paint', cursive;
+
 }
 
 .player_container {
@@ -149,6 +160,8 @@ input {
 
 .numberOfWins{
     grid-area: a7;
+    color: #F2C14E;
+    font-family: 'Finger Paint', cursive;
 }
 
 @media(max-width:950px){
