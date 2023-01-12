@@ -1,7 +1,7 @@
 <h1 align="center" width:100%>
 
-![JOGO DA VELHA - Google Chrome 2022-06-05 14-37-45](https://user-images.githubusercontent.com/97768716/172063730-3ef7364f-9630-41fe-97e8-91bab023f39d.gif) 
-![Design_sem_nome-removebg-preview](https://user-images.githubusercontent.com/97768716/172063823-e6df07ee-fd82-498b-8e4d-92a07c5e45f2.png)
+![JOGO DA VELHA - Google Chrome 2023-01-12 11-22-18](https://user-images.githubusercontent.com/121953504/212091975-d40df290-4887-446b-9392-8fd9d5915e80.gif)
+![Design_sem_nome-removebg-preview](https://user-images.githubusercontent.com/121953504/212092997-545e34d3-5dff-4e8a-903d-36fac7fd05d0.png)
 
   # 📱 Jogo da Velha.
 > Esse repositório tem como objetivo principal de apresentar meus estudos e aplicar em projetos pessoais.
